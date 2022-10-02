@@ -17,25 +17,25 @@ class _HomePageState extends State<HomePage> {
       logo: 'assets/images/mpesa.png',
       name: "Mpesa",
       date: '22.09.2022',
-      amount: '-22,50',
+      amount: '-22.50',
     ),
     TransactionModel(
       logo: 'assets/images/uber.png',
       name: "Uber",
       date: '17.09.2022',
-      amount: '-75,45',
+      amount: '-75.45',
     ),
     TransactionModel(
       logo: 'assets/images/kfc.png',
       name: "KFC",
       date: '10.09.2022',
-      amount: '-22,50',
+      amount: '-22.50',
     ),
     TransactionModel(
       logo: 'assets/images/shopping.png',
       name: "Shopping",
       date: '01.09.2022',
-      amount: '-75,45',
+      amount: '-75.45',
     ),
   ];
 
