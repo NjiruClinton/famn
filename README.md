@@ -5,6 +5,6 @@ git clone <repo url>
 pub get
 ```
 
-![Screenshot1](assets/images/s1.jpeg?raw=true "Screenshot 1")
+![s1.jpeg](assets/images/s1.jpeg?raw=true "Screenshot 1")
 
-![Screenshot2](assets/images/s2.jpeg?raw=true "Screenshot 2")
+![s2.jpeg](assets/images/s2.jpeg?raw=true "Screenshot 2")
